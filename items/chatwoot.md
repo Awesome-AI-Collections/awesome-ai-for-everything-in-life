@@ -1,0 +1,60 @@
+---
+title: "Chatwoot"
+slug: "chatwoot"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Operations"
+featured: false
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# Chatwoot
+
+## 一句话总结
+
+带 AI 支持代理的开源全渠道客服平台，适合统一管理客户会话。
+
+## 它解决什么问题
+
+- 客户消息来自网站、邮件、社媒和即时通讯渠道，回复入口分散
+- 支持团队希望用 AI 处理常见问题，但又想保留自托管和数据控制
+- 客服流程除了聊天，还需要知识库、协作和统计分析
+
+## 适合谁
+
+- 互联网产品客服团队
+- 跨境和电商支持团队
+- 想用开源方式搭建全渠道客服平台的企业
+
+## 核心能力
+
+- 全渠道会话：统一处理网站、邮件和社媒消息
+- AI 支持代理：自动处理常见问题并减轻坐席压力
+- 客服运营工具：包含知识库、自动化和报表
+
+## 典型使用场景
+
+- 客服中心统一管理多渠道用户咨询
+- 用 AI 做 FAQ 自动回复和分流
+- 建立私有化 helpdesk 与客户支持中台
+
+## 为什么值得关注
+
+- 在开源客服平台里成熟度很高
+- AI 能力不是孤立功能，而是嵌进支持流程
+- 对互联网和跨境团队非常实用
+
+## 官方链接
+
+- **GitHub:** https://github.com/chatwoot/chatwoot
+- **更新记录:** https://github.com/chatwoot/chatwoot/releases
+
+## 标签
+
+- `客服平台`, `AI 客服`, `全渠道`, `Helpdesk`, `Operations`
+
+## 更新观察点
+
+- Captain AI Agent 能力是否持续增强
+- 渠道整合与自动化能力是否继续扩展
+- 报表和团队协作功能是否更完善

@@ -1,0 +1,65 @@
+---
+title: "AgenticAds"
+slug: "agentic-ads"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Marketing / Growth"
+featured: false
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# AgenticAds
+
+## 一句话总结
+
+一个多模态广告生成平台，可把基础文案自动扩成图片、海报和短视频素材。
+
+## 它解决什么问题
+
+- 广告创意往往需要文案、图片和视频一起产出，协作成本高
+- 运营团队想快速试不同平台素材，但生产速度跟不上
+- 小团队没有完整创意团队时，很难高频迭代广告内容
+
+## 适合谁
+
+- 做广告投放和增长的团队
+- 需要多平台素材生产的运营人员
+- 想验证 AI 广告生成流程的人
+
+## 核心能力
+
+- 多模态生成：同时覆盖文本、图片和视频素材
+- 广告场景：输出更接近投放使用的内容形态
+- 品牌化处理：适合把现有资产进一步扩展成广告素材
+
+## 典型使用场景
+
+- 社媒投放素材批量生成
+- 电商或 SaaS 广告创意测试
+- 小团队快速试错不同广告表达
+
+## 为什么值得关注
+
+- 对广告场景的针对性比通用生成工具更强
+- 多模态素材一体化更贴近增长团队实际需求
+- 对“创意产能不足”的团队很有吸引力
+
+## 类似项目
+
+- [Jasper](jasper.md) - 更偏营销文案生成
+- [Attribuly DTC Skills](attribuly-dtc-skills.md) - 更偏营销分析和投放优化
+
+## 官方链接
+
+- **GitHub:** https://github.com/Shree2604/Agentic-Ads
+- **更新记录:** https://github.com/Shree2604/Agentic-Ads/releases
+
+## 标签
+
+- `广告生成`, `多模态`, `增长素材`, `创意自动化`, `Marketing / Growth`
+
+## 更新观察点
+
+- 是否继续提升素材一致性和平台适配能力
+- 后续是否补更多品牌资产接入方式
+- 项目是否持续从 demo 演进到更可用的工作流工具

@@ -1,0 +1,60 @@
+---
+title: "KrillinAI"
+slug: "krillinai"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Writing / Content"
+featured: false
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# KrillinAI
+
+## 一句话总结
+
+AI 视频翻译配音工具，适合跨语言内容分发与出海运营。
+
+## 它解决什么问题
+
+- 视频内容出海时，翻译、配音和适配多个平台非常耗时
+- 内容团队希望更快把已有视频变成多语言版本
+- 国际化内容分发常常缺少低成本的全流程工具
+
+## 适合谁
+
+- 做出海内容运营的团队
+- 视频号、YouTube、TikTok 内容团队
+- 需要跨语言传播课程或品牌内容的人
+
+## 核心能力
+
+- 视频翻译：覆盖多语言转换
+- 配音与适配：帮助快速形成可发布内容
+- 平台导向：更适合短视频和海外平台分发
+
+## 典型使用场景
+
+- 把中文视频快速转成英文或多语版本
+- 做海外社媒内容矩阵
+- 跨境品牌扩展国际内容触达
+
+## 为什么值得关注
+
+- 直接解决视频出海这个高频难题
+- 对内容团队来说节省大量剪辑和配音成本
+- 很适合互联网和跨境团队做内容扩散
+
+## 官方链接
+
+- **GitHub:** https://github.com/krillinai/KrillinAI
+- **更新记录:** https://github.com/krillinai/KrillinAI/releases
+
+## 标签
+
+- `视频翻译`, `AI 配音`, `内容出海`, `多语言`, `Writing / Content`
+
+## 更新观察点
+
+- 语言覆盖和配音质量是否继续提升
+- 平台适配能力是否更完善
+- 是否加入更多后期和内容分发辅助功能

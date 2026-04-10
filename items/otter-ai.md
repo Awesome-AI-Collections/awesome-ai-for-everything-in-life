@@ -1,0 +1,37 @@
+---
+title: "Otter.ai"
+slug: "otter-ai"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Sales / CRM"
+featured: true
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# Otter.ai
+
+## 一句话总结
+
+会议转写与总结工具，适合跨语种沟通记录和会后整理。
+
+## 核心场景
+
+- 转写会议音频并做会后摘要
+- 支持跨语种沟通记录与整理
+
+## 为什么值得关注
+
+- 适合经常开会或采访的人群
+- 转写和总结结合得比较顺手
+
+## 官方链接
+
+- **官方网站:** https://otter.ai/
+
+## 标签
+
+- `会议转写`
+- `摘要`
+- `音频转文字`
+- `跨语种`
+- `Otter`

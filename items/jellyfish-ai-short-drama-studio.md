@@ -1,0 +1,66 @@
+---
+title: "Jellyfish"
+slug: "jellyfish-ai-short-drama-studio"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Design / Creative"
+featured: false
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# Jellyfish
+
+## 一句话总结
+
+一个覆盖剧本输入、智能分镜、角色场景一致性管理、视频生成和后期剪辑的一站式 AI 短剧工厂。
+
+## 它解决什么问题
+
+- AI 短剧生产最容易翻车的是人物、场景和道具的一致性
+- 很多工具只负责前半段生成，没有把后期剪辑和资产复用纳入流程
+- 团队化创作时，需要更精细的镜头控制和项目资产管理
+
+## 适合谁
+
+- 短剧创作者
+- AI 视频团队
+- 品牌、教育类剧情视频制作团队
+
+## 核心能力
+
+- 智能分镜：把剧本拆到镜头级别
+- 一致性管理：管理角色、场景、道具和服装等资产
+- 视频生成：从镜头走到视频片段
+- 后期剪辑：直接在同一流程里完成时间线与导出
+
+## 典型使用场景
+
+- 做要求较高的一致性短剧或微短剧
+- 团队协作生产剧情类营销视频
+- 用一套系统贯穿从脚本到剪辑的完整流程
+
+## 为什么值得关注
+
+- 它在这批工具里最强调“工业化生产 + 资产复用”
+- 对不满足于单纯出样片、而是要做连续生产的人更有吸引力
+- 如果你关心角色不跑偏、场景不乱跳，Jellyfish 很值得试
+
+## 类似项目
+
+- [Huobao Drama](huobao-drama.md) - 更像全流程短剧自动化平台
+- [BigBanana AI Director](bigbanana-ai-director.md) - 更强调关键帧驱动和导演工作台
+
+## 官方链接
+
+- **GitHub:** https://github.com/Forget-C/Jellyfish
+- **更新记录:** https://github.com/Forget-C/Jellyfish/releases
+
+## 标签
+
+- `AI短剧`, `一致性管理`, `后期剪辑`, `分镜控制`, `视频生产`
+
+## 更新观察点
+
+- 后续重点看资产管理、后期剪辑和多用户工作流是否继续增强
+- 优先观察 README 和 actions / releases，判断项目是否保持高频迭代
+- 如果后续增加更成熟的模板、导出或协作能力，值得补进正文

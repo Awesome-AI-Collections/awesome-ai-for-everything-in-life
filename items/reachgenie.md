@@ -1,0 +1,64 @@
+---
+title: "ReachGenie"
+slug: "reachgenie"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Sales / CRM"
+featured: false
+last_reviewed_at: "2026-04-09T19:05:16+00:00"
+---
+
+# ReachGenie
+
+## 一句话总结
+
+ReachGenie 是一个开源 AI SDR 平台，覆盖线索富化、个性化外联、自动跟进和会议预约，适合做出海销售或 B2B 获客自动化。
+
+## 它解决什么问题
+
+- 销售团队做冷启动外联时，人工研究客户、写首封邮件和持续跟进都很耗时。
+- 很多线索表只有公司名和邮箱，缺乏上下文，导致外联内容泛化且转化低。
+- 多渠道外联流程分散在邮箱、LinkedIn、电话和日历工具里，难以统一管理。
+
+## 适合谁
+
+- 做外贸开发信和海外客户拓展的团队
+- B2B SaaS 的销售开发团队
+- 想把线索研究、外联和跟进流程自动化的创业团队
+
+## 核心能力
+
+- 线索富化：补充公司情报和联系人上下文，提升首触达质量。
+- AI 个性化外联：为不同潜在客户生成更贴合的邮件和跟进内容。
+- 多渠道执行：把 Email、电话、LinkedIn 和会议预约串成统一流程。
+
+## 典型使用场景
+
+- 外贸团队导入一批目标客户后，自动生成行业相关的英文开发信并安排跟进节奏。
+- SaaS 销售针对不同 ICP 做差异化外联，提高首封回复率。
+- 小团队用一套系统统一管理线索研究、内容生成和后续跟进。
+
+## 为什么值得关注
+
+- 业务指向非常明确，直接服务销售开发和外联自动化。
+- README 已经给出完整的产品边界，而不是单纯展示一个模型 demo。
+- 对“外贸/互联网业务”这个 intake 主题的贴合度很高。
+
+## 类似项目
+
+- [Hexabot](./hexabot.md) - 更偏官网接待和客户会话，不是主动外联。
+- [Activepieces](./activepieces.md) - 更偏通用工作流自动化，可作为 ReachGenie 周边流程的补充。
+
+## 官方链接
+
+- **GitHub:** https://github.com/alinaqi/reachgenie
+
+## 标签
+
+- `sales`, `sdr`, `outreach`, `lead-enrichment`
+
+## 更新观察点
+
+- 继续观察 CRM、邮箱和 LinkedIn 集成是否稳定扩展。
+- 重点看线索富化和内容个性化模块是否持续增强。
+- 如果后续补充更成熟的 analytics 和 campaign 管理，这个项目会更适合团队化使用。

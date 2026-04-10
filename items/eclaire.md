@@ -1,0 +1,67 @@
+---
+title: "Eclaire"
+slug: "eclaire"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Personal Productivity"
+featured: false
+last_reviewed_at: "2026-04-10T00:00:00+00:00"
+---
+
+# Eclaire
+
+## 一句话总结
+
+一个本地优先、可自托管的开源 AI 工作台，可统一处理任务、笔记、文档、图片、书签等个人与团队资料，并在私有环境里做搜索、OCR 和自动化。
+
+## 它解决什么问题
+
+- 很多知识工作者的数据分散在任务、笔记、文档、图片和网页收藏里，难以统一管理
+- 闭源 AI 工作台对隐私要求高的团队不够友好
+- 想让 AI 真正理解个人或团队资料时，往往缺少一个自托管的数据中台
+
+## 适合谁
+
+- 产品、运营、研究和管理等知识工作岗位
+- 需要私有化 AI 工作台的个人和团队
+- 想把任务、文档、书签和图片统一接入 AI 的组织
+
+## 核心能力
+
+- 统一资料工作台：覆盖任务、笔记、文档、照片、书签等多类内容
+- 本地优先 AI：支持本地模型、OCR、分类、搜索和自动化
+- 自托管与 API：支持私有部署、OpenAI 兼容 API 和多模型后端
+
+## 典型使用场景
+
+- 把日常任务、知识笔记和资料收藏统一交给 AI 检索和整理
+- 私有化处理包含敏感数据的文档、票据和图片
+- 给产品或运营团队搭一个“个人数据 + AI 助手”的工作台
+
+## 为什么值得关注
+
+- 它比单点工具更像一个通用个人/团队 AI 中台
+- 本地优先和多模型后端让数据控制权更强
+- 对互联网岗位的日常知识管理和跨资料搜索很实用
+
+## 类似项目
+
+- [AppFlowy](appflowy.md) - 更偏文档、数据库与协作工作空间
+- [AnythingLLM](anythingllm.md) - 更偏知识工作空间和多模型问答
+
+## 官方链接
+
+- **官网:** https://eclaire.co
+- **GitHub:** https://github.com/eclaire-labs/eclaire
+- **文档:** https://eclaire.co/docs
+- **更新记录:** https://github.com/eclaire-labs/eclaire/releases
+
+## 标签
+
+- `知识工作台`, `自托管`, `本地优先`, `任务管理`, `Personal Productivity`
+
+## 更新观察点
+
+- 更多数据源和集成能力是否继续扩展
+- 本地模型、OCR 和自动化工作流是否更稳定
+- 安全加固、插件化和团队协作功能是否补齐

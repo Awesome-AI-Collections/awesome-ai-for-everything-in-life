@@ -1,0 +1,67 @@
+---
+title: "xianyu-auto-reply-fix"
+slug: "xianyu-auto-reply-fix"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Sales / CRM"
+featured: true
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# xianyu-auto-reply-fix
+
+## 一句话总结
+
+一个面向闲鱼店铺矩阵运营的多账号管理系统，支持 AI 自动回复、自动发货、订单处理和 Web 管理后台。
+
+## 它解决什么问题
+
+- 多账号闲鱼运营很容易在回复、发货、订单处理上失控
+- 单个脚本只解决一个环节，难以形成完整后台
+- 店群运营需要账号隔离、日志、权限和数据管理
+
+## 适合谁
+
+- 闲鱼店群或矩阵化运营者
+- 想统一管理回复、发货和账号状态的卖家
+- 需要完整后台而不只是聊天脚本的自动化团队
+
+## 核心能力
+
+- 多用户多账号管理：支持账号隔离、状态查看和权限控制
+- 智能回复：支持关键词、默认回复、商品专属回复和 AI 回复
+- 自动发货：支持文本、图片、API 和多规格发货规则
+- 运营后台：提供订单、通知、日志和统计能力
+- 部署灵活：支持 Docker Compose、本地运行和多架构环境
+
+## 典型使用场景
+
+- 用一个后台统一管理多个闲鱼账号的自动回复和发货
+- 为不同商品设置不同回复与发货规则，减少人工干预
+- 用日志、通知和统计面板跟踪店铺自动化运行情况
+
+## 为什么值得关注
+
+- 它更像“闲鱼管理系统”，而不只是一个自动回复脚本
+- 覆盖了账号、商品、消息、发货和监控，适合规模化运营
+- 如果你的需求是多账号后台，它比轻量脚本更完整
+
+## 类似项目
+
+- [XianyuAutoAgent](xianyu-auto-agent.md) - 更偏多专家对话和议价
+- [ai-goofish-monitor](ai-goofish-monitor.md) - 更偏选品监控和捡漏筛选
+
+## 官方链接
+
+- **GitHub:** https://github.com/GuDong2003/xianyu-auto-reply-fix
+- **更新记录:** https://github.com/GuDong2003/xianyu-auto-reply-fix/releases
+
+## 标签
+
+- `闲鱼`, `多账号管理`, `AI回复`, `自动发货`, `Web后台`
+
+## 更新观察点
+
+- 后续重点看它在多账号稳定性、后台权限和运营工具集成上的迭代
+- 优先观察 README 与 releases，跟踪自动发货、热更新和管理后台能力更新
+- 如果后续补了更强的 AI 路由或 CRM 分析能力，值得补进正文

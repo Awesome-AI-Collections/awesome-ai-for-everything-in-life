@@ -1,0 +1,37 @@
+---
+title: "Lilt"
+slug: "lilt"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Writing / Content"
+featured: true
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# Lilt
+
+## 一句话总结
+
+AI 翻译平台，适合高质量商用翻译需求。
+
+## 核心场景
+
+- 处理商用翻译和高质量人工协同翻译需求
+- 在质量优先场景下管理多语内容交付
+
+## 为什么值得关注
+
+- 适合对译文质量要求较高的商业场景
+- 兼顾 AI 能力和专业翻译流程
+
+## 官方链接
+
+- **官方网站:** https://lilt.com/
+
+## 标签
+
+- `高质量翻译`
+- `商用翻译`
+- `本地化`
+- `多语言`
+- `协作`

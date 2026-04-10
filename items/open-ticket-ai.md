@@ -1,0 +1,60 @@
+---
+title: "Open Ticket AI"
+slug: "open-ticket-ai"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Operations"
+featured: false
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# Open Ticket AI
+
+## 一句话总结
+
+开源 AI 工单自动化引擎，可连接票务系统并自动分类、路由和处理工单。
+
+## 它解决什么问题
+
+- 客服和 IT 支持团队处理工单时，分派和初筛非常耗人力
+- 工单规则复杂，传统规则引擎很难覆盖长尾问题
+- 企业希望本地部署 AI 自动化，不想把工单数据完全交给外部 SaaS
+
+## 适合谁
+
+- 客服运营团队
+- IT 运维和内部服务台团队
+- 需要私有化自动化工单流程的企业
+
+## 核心能力
+
+- AI 工单分类：减少人工分诊成本
+- 自动路由：把请求分发给合适队列或处理链
+- 插件化流程：支持根据业务场景自由编排
+
+## 典型使用场景
+
+- 客服中心自动分流不同问题类型
+- 内部 IT 服务台自动化 triage
+- B2B 支持团队构建 on-premise 支持流程
+
+## 为什么值得关注
+
+- 非常贴近真实工单处理场景
+- 开源且强调本地化部署，企业可控性更强
+- 对“AI + 工单自动化”方向有很强参考价值
+
+## 官方链接
+
+- **GitHub:** https://github.com/Softoft-Orga/open-ticket-ai
+- **更新记录:** https://github.com/Softoft-Orga/open-ticket-ai/releases
+
+## 标签
+
+- `工单自动化`, `AI 分流`, `客服运营`, `支持系统`, `Operations`
+
+## 更新观察点
+
+- 插件生态和系统连接器是否继续增加
+- 工单分类准确率与流程可观测性是否增强
+- 企业部署文档和权限体系是否更成熟

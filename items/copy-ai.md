@@ -1,0 +1,37 @@
+---
+title: "Copy.ai"
+slug: "copy-ai"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Writing / Content"
+featured: true
+last_reviewed_at: "2026-04-09T00:00:00+00:00"
+---
+
+# Copy.ai
+
+## 一句话总结
+
+营销与销售文案 AI，适合广告、邮件和社媒内容生成。
+
+## 核心场景
+
+- 批量生成广告、邮件和社媒内容
+- 快速把一个主题扩成多种营销表达
+
+## 为什么值得关注
+
+- 适合多场景营销文案生产
+- 上手直接，适合内容团队提效
+
+## 官方链接
+
+- **官方网站:** https://www.copy.ai/
+
+## 标签
+
+- `文案生成`
+- `广告文案`
+- `邮件`
+- `社媒内容`
+- `营销`

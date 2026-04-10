@@ -1,0 +1,65 @@
+---
+title: "AI Resume Analyzer"
+slug: "ai-resume-analyzer"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Career / Hiring"
+featured: false
+last_reviewed_at: "2026-04-10T00:00:00+00:00"
+---
+
+# AI Resume Analyzer
+
+## 一句话总结
+
+一个能解析简历、预测岗位方向、给出改进建议并输出招聘分析报表的开源招聘与求职分析工具。
+
+## 它解决什么问题
+
+- 招聘和求职双方都很难快速看出一份简历更适合什么岗位方向。
+- 单纯“看简历文本”效率低，缺少结构化字段、评分和趋势分析。
+- 求职者知道简历不够好，但不知道应该补哪些技能和表达。
+
+## 适合谁
+
+- 需要批量查看候选人简历的招聘或校招团队
+- 想改进自己简历内容和方向判断的求职者
+- 想分析学生或候选人简历分布的高校和培训机构
+
+## 核心能力
+
+- 简历解析：把候选人简历转成结构化信息，便于筛选和分析。
+- 岗位预测与建议：基于关键词和技能给出岗位方向、改进建议和提示。
+- 招聘数据分析：支持把候选人数据汇总成表格和图表用于分析。
+
+## 典型使用场景
+
+- HR 团队在初筛时快速看候选人简历里的技能、方向和基本适配情况。
+- 求职者上传简历后获取改进建议、岗位预测和整体得分。
+- 学校或培训机构分析学生简历数据，了解热门方向和薄弱项。
+
+## 为什么值得关注
+
+- 同时兼顾招聘端和求职端，不只是单向打分工具。
+- 已经考虑到表格汇总和图表分析，适合做批量筛选辅助。
+- 对校招、求职辅导和中小团队招聘很有现实意义。
+
+## 类似项目
+
+- [Resume Parser](./resume-parser.md) - 更偏离线 ATS 解析和岗位技能比对。
+- [Resume Matcher](./resume-matcher.md) - 更偏针对具体 JD 做定制化优化。
+
+## 官方链接
+
+- **GitHub:** https://github.com/deepakpadhi986/AI-Resume-Analyzer
+- **更新记录:** https://github.com/deepakpadhi986/AI-Resume-Analyzer/releases
+
+## 标签
+
+- `resume-analysis`, `hiring`, `recruiting`, `career`, `analytics`
+
+## 更新观察点
+
+- 继续观察支持岗位类型和推荐逻辑是否扩展到更多职业方向。
+- 重点看简历评分、数据看板和管理员分析能力是否增强。
+- 如果后续补充更现代的解析链路和模型支持，会更适合真实招聘流程。
