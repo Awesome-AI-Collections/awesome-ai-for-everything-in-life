@@ -535,7 +535,6 @@
 - [Atomic](items/atomic.md) - 一个把 Markdown 笔记自动转成语义知识图谱的个人知识库系统，支持向量搜索、Wiki 合成、画布和 AI 对话。
 - [ChatLab](items/chatlab.md) - 一个支持 Telegram、WhatsApp、LINE、QQ、Discord 和 Instagram 聊天记录分析的开源工具。
 - [Eclaire](items/eclaire.md) - 一个本地优先、可自托管的开源 AI 工作台，可统一处理任务、笔记、文档、图片和书签等个人与团队资料。
-- [GBrain](items/gbrain.md) - 一个面向 AI Agent 的开源长期记忆系统，用 Markdown repo 做知识源，用 Postgres + pgvector 做检索，适合把人物档案、会议记录、笔记和日历沉淀成可搜索的个人大脑。
 - [H3xAssist](items/h3xassist.md) - 一个能自动入会、录音、转写并生成会议摘要与待办的开源 AI 会议助手。
 - [Hermes Agent](items/hermes-agent.md) - 一个可运行在 CLI、Telegram、Discord、Slack 等多入口的自进化 AI 助手，支持记忆、技能、自动化和远程运行。
 - [Inbox Zero](items/inbox-zero.md) - 一个开源 AI 邮件助理，可整理收件箱、预写回复、管理日程并把附件自动归档。
