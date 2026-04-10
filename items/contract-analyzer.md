@@ -1,0 +1,65 @@
+---
+title: "Contract Analyzer"
+slug: "contract-analyzer"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Research / Analysis"
+featured: false
+last_reviewed_at: "2026-04-10T00:00:00+00:00"
+---
+
+# Contract Analyzer
+
+## 一句话总结
+
+一个基于 RAG 的开源合同分析工具，可从 PDF 合同中检索关键条款、提取信息并回答语义问题。
+
+## 它解决什么问题
+
+- 法务、采购和商务团队审阅合同时，经常要反复翻找关键条款和实体信息。
+- 普通 PDF 阅读工具很难支持基于语义的问题检索和条款追问。
+- 许多组织想先验证“合同问答”能力，但不想直接依赖闭源 SaaS。
+
+## 适合谁
+
+- 需要快速查看合同关键信息的法务与合规团队
+- 经常处理采购、商务和合作协议的业务岗位
+- 想搭建内部合同问答原型的法律科技或内部工具团队
+
+## 核心能力
+
+- 合同导入：支持把 PDF 合同加入分析流程。
+- 语义检索：通过 RAG 和语义搜索定位最相关的合同片段。
+- 问答分析：围绕具体条款、角色和义务生成针对性回答。
+
+## 典型使用场景
+
+- 商务或采购团队快速确认付款、违约和交付相关条款。
+- 法务团队在初步审阅时快速定位合同中的关键实体信息。
+- 内部工具团队验证合同问答和条款检索能力。
+
+## 为什么值得关注
+
+- 比通用文档问答更聚焦合同这一高价值场景。
+- 使用门槛较低，适合做合同分析原型或内部试点。
+- 对法务、采购和外贸合同核查都有直接参考价值。
+
+## 类似项目
+
+- [OpenContracts](./opencontracts.md) - 更偏合同和法律文档的结构化处理平台。
+- [LawGlance](./lawglance.md) - 更偏法律知识与法规问答，不聚焦单份合同。
+
+## 官方链接
+
+- **GitHub:** https://github.com/ahmetkumass/contract-analyzer
+- **更新记录:** https://github.com/ahmetkumass/contract-analyzer/releases
+
+## 标签
+
+- `contract-analysis`, `legal-ai`, `RAG`, `pdf-qa`, `compliance`
+
+## 更新观察点
+
+- 继续观察对复杂合同结构、长文档和多份文档的处理能力是否增强。
+- 重点看合同问答的准确率和检索可解释性是否改善。
+- 如果后续补充条款提取模板或审阅工作流，法务价值会更高。

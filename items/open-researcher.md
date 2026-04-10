@@ -1,0 +1,65 @@
+---
+title: "Open Researcher"
+slug: "open-researcher"
+info_type: "awesome-ai-for-everything-in-life"
+entity_type: "tool"
+category: "Research / Analysis"
+featured: false
+last_reviewed_at: "2026-04-10T00:00:00+00:00"
+---
+
+# Open Researcher
+
+## 一句话总结
+
+一个把网页抓取、AI 推理、实时思考展示和自动引用整合在一起的开源研究助手，适合做公司研究、竞品分析和市场情报整理。
+
+## 它解决什么问题
+
+- 做公司研究和竞品扫描时，信息分散在网页、新闻和资料页面里，来回切换很耗时。
+- 很多研究型 AI 只能给结论，不能清楚展示中间推理和引用来源。
+- 销售、外贸、运营和研究团队需要一个既能抓网页、又能边分析边沉淀来源的工作台。
+
+## 适合谁
+
+- 做公司研究、行业研究和竞品分析的销售、BD 与市场团队
+- 需要快速整理公开网页资料的外贸开发和客户研究岗位
+- 想搭建可视化研究助手的产品与内部工具团队
+
+## 核心能力
+
+- 网页研究：结合 Firecrawl 抓取网页内容并交给 AI 进行分析。
+- 思考可视化：可实时展示研究过程，方便复核中间推理。
+- 自动引用：为输出结果补充来源引用，便于后续核验和复用。
+
+## 典型使用场景
+
+- 外贸团队做潜在客户背景研究和市场进入前调研。
+- 互联网团队做竞品功能、官网定位和传播信息整理。
+- 咨询、研究或运营团队快速把网页资料整理成可追溯结论。
+
+## 为什么值得关注
+
+- 不只是搜索，而是把抓取、分析和引用整成了一套研究流程。
+- “思考过程可见” 对内部复核和团队协作很有帮助。
+- 很适合继续扩展成公司研究、情报分析或客户研究工作台。
+
+## 类似项目
+
+- [GPT Researcher](./gpt-researcher.md) - 更偏自动化深度研究和报告生成。
+- [Company Researcher](./company-researcher.md) - 更偏围绕公司官网做画像与情报汇总。
+
+## 官方链接
+
+- **GitHub:** https://github.com/firecrawl/open-researcher
+- **更新记录:** https://github.com/firecrawl/open-researcher/releases
+
+## 标签
+
+- `research`, `web-analysis`, `competitive-intelligence`, `citations`, `firecrawl`
+
+## 更新观察点
+
+- 继续观察是否补充更多研究模板和更强的多来源整合能力。
+- 重点看引用可追溯性和网页抓取稳定性是否持续提升。
+- 如果后续增加团队协作或导出能力，商业研究价值会更高。
