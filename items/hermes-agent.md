@@ -47,7 +47,7 @@ last_reviewed_at: "2026-04-10T12:27:00+00:00"
 ## 类似项目
 
 - [CodePilot](https://github.com/op7418/CodePilot) - 更偏桌面端的多模型 Agent 工作台，而 Hermes Agent 更强调长期运行、多入口和自进化能力。
-- [小龙 OpenClaw 语音助手](../../aweseome-ai-for-coding/items/xiaolong-openclaw.md) - 都能把 Agent 入口扩展到非纯命令行场景，但 OpenClaw 语音助手更偏编码 Agent 的语音交互扩展。
+- [小龙 OpenClaw 语音助手](../../awesome-ai-for-coding/items/xiaolong-openclaw.md) - 都能把 Agent 入口扩展到非纯命令行场景，但 OpenClaw 语音助手更偏编码 Agent 的语音交互扩展。
 
 ## 官方链接
 
