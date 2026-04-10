@@ -4,9 +4,6 @@
 
 ## 推荐
 
-<<<<<<< main
-- 暂无精选条目
-=======
 - [Acrobat AI Assistant](items/acrobat-ai-assistant.md) - Adobe Acrobat 的文档 AI 助手，可用于合同和 PDF 的摘要与问答。
 - [ai-goofish-monitor](items/ai-goofish-monitor.md) - 一个基于 Playwright 和 AI 的闲鱼多任务监控系统，支持商品筛选、通知推送、账号轮换和 Web 管理界面。
 - [AICheck](items/aicheck.md) - 一个完全离线运行的 AI 内容检测 CLI，可分析图片、视频、音频与 PDF 中的元数据和隐形水印信号。
@@ -165,7 +162,6 @@
 - [XianyuAutoAgent](items/xianyu-auto-agent.md) - 一个面向闲鱼卖家的 AI 客服机器人，支持上下文感知对话、多专家路由和自动议价。
 - [Zendesk AI](items/zendesk-ai.md) - Zendesk 的客服自动化能力，适合海外客户支持和工单处理。
 - [Zoho Zia](items/zoho-zia.md) - Zoho 的智能 CRM 助手，适合中小团队做销售分析、提醒和自动化。
->>>>>>> local
 
 ## 从哪里开始
 
@@ -174,9 +170,6 @@
 
 ## 分类浏览
 
-<<<<<<< main
-- 暂无条目
-=======
 ### Writing / Content
 
 适合写作、内容生产、文案优化和日常表达增强。
@@ -260,6 +253,7 @@
 - [Hyper-Extract](items/hyper-extract.md) - 一个用 LLM 把非结构化文本转成结构化知识的抽取框架，支持图谱、超图和时空抽取，适合研究、文档理解与知识整理。
 - [Kotaemon](items/kotaemon.md) - 一个面向文档问答和企业知识库场景的开源 RAG 界面与工作台，适合研究、客服和内部资料检索。
 - [LawGlance](items/lawglance.md) - 一个面向法律与合规问答场景的开源 RAG 助手，适合法务、合规和政策查询工作流。
+- [Longbridge CLI](items/longbridge-cli.md) - Longbridge 官方的 AI-native 命令行工具，覆盖行情、基本面、账户、持仓和下单等 OpenAPI 能力，适合做金融研究、脚本化分析和终端工作流。
 - [MemFree](items/memfree.md) - 一个结合本地知识库与互联网搜索的开源 AI 搜索助手，适合做个人与团队资料检索和总结。
 - [MindsDB](items/mindsdb.md) - 一个把数据库、应用和文档连接给 AI 的开源查询引擎，适合做业务数据问答、分析和智能体。
 - [Onyx](items/onyx.md) - 一个面向团队的开源 AI 平台，支持内部知识搜索、RAG、深度研究和企业级聊天助手。
@@ -268,6 +262,7 @@
 - [QAnything](items/qanything.md) - 一个支持离线部署的本地知识库问答系统，适合企业内部文档问答和跨语言知识检索。
 - [RAGFlow](items/ragflow.md) - 一个开源 RAG 与 Agent 引擎，适合把公司文档、知识库和业务资料整理成可检索、可追溯的问答系统。
 - [ReadingBank](items/readingbank.md) - 文档阅读顺序数据集，可用于复杂单证理解。
+- [TradingAgents-CN](items/tradingagents-cn.md) - 一个面向中文用户的多智能体股票分析与学习平台，支持 A 股、港股、美股研究、中文学习中心和多模型配置，但定位为研究与教学用途而非实盘指令工具。
 - [Vane](items/vane.md) - 一个支持本地模型和私有部署的开源 AI 搜索与问答引擎，适合团队做隐私优先的资料检索。
 - [webvicob](items/webvicob.md) - 视觉文档语料构建工具，适合自建单证训练集。
 - [x-tweet-fetcher](items/x-tweet-fetcher.md) - 一个面向 X、列表、长文与微信内容抓取的多后端采集工具，支持 Nitter、Playwright 与自动回退。
@@ -540,6 +535,7 @@
 - [Atomic](items/atomic.md) - 一个把 Markdown 笔记自动转成语义知识图谱的个人知识库系统，支持向量搜索、Wiki 合成、画布和 AI 对话。
 - [ChatLab](items/chatlab.md) - 一个支持 Telegram、WhatsApp、LINE、QQ、Discord 和 Instagram 聊天记录分析的开源工具。
 - [Eclaire](items/eclaire.md) - 一个本地优先、可自托管的开源 AI 工作台，可统一处理任务、笔记、文档、图片和书签等个人与团队资料。
+- [GBrain](items/gbrain.md) - 一个面向 AI Agent 的开源长期记忆系统，用 Markdown repo 做知识源，用 Postgres + pgvector 做检索，适合把人物档案、会议记录、笔记和日历沉淀成可搜索的个人大脑。
 - [H3xAssist](items/h3xassist.md) - 一个能自动入会、录音、转写并生成会议摘要与待办的开源 AI 会议助手。
 - [Hermes Agent](items/hermes-agent.md) - 一个可运行在 CLI、Telegram、Discord、Slack 等多入口的自进化 AI 助手，支持记忆、技能、自动化和远程运行。
 - [Inbox Zero](items/inbox-zero.md) - 一个开源 AI 邮件助理，可整理收件箱、预写回复、管理日程并把附件自动归档。
@@ -558,20 +554,10 @@
 - [SubsTracker](items/subs-tracker.md) - 一个部署在 Cloudflare Workers 上的订阅管理工具，可在到期前自动提醒并统计多币种订阅支出。
 - [Transcript Seeker](items/transcript-seeker.md) - 开源浏览器转录工作台，可上传录音录像、生成转录、与纪要对话，并接入 Zoom、Meet、Teams 会议机器人。
 - [Zero](items/zero.md) - 一个支持 AI 代理、多账户聚合和自托管的开源邮件工作台，适合销售、外贸和高频邮件岗位。
->>>>>>> local
 
 ## 后续补充方向
 
-- `Writing / Content`: 适合写作、内容生产、文案优化和日常表达增强。
-- `Design / Creative`: 适合设计、创意生成、视觉表达和多媒体创作。
-- `Research / Analysis`: 适合做资料检索、调研整理、分析归纳和洞察提炼。
-- `Marketing / Growth`: 适合市场增长、投放、内容运营和传播策略辅助。
-- `Sales / CRM`: 适合销售跟进、客户沟通、线索整理和 CRM 工作流。
-- `Operations`: 适合运营、流程管理、协同支持和日常执行提效。
-- `Product Management`: 适合产品经理做需求整理、PRD 写作和方案分析。
 - `Education`: 适合教学、学习辅助、课程组织和知识解释。
-- `Career / Hiring`: 适合招聘、求职、简历、面试和职业发展支持。
-- `Personal Productivity`: 适合个人效率、信息整理、计划管理和日常工作增强。
 - `Health / Lifestyle`: 适合健康、生活方式、日常管理和个人生活支持。
 
 ## 收录标准
