@@ -224,6 +224,7 @@
 - [OpenTryOn](items/opentryon.md) - 面向电商和时尚零售的开源虚拟试穿工具箱，支持服饰展示、模特生成与商品可视化。
 - [Photopea](items/photopea.md) - 一个在线图像编辑器，支持 PSD、AI、Sketch、PDF 等格式，适合快速改图、抠图和多格式素材编辑。
 - [Pixelle-Video](items/pixelle-video.md) - 一个输入主题就能自动完成文案、配图、配音、配乐与合成的 AI 全自动短视频引擎。
+- [Remotion](items/remotion.md) - 一个用 React 代码生成视频的框架，适合把动画、数据、模板和品牌元素编排成可重复的视频生产流程。
 - [Toonflow](items/toonflow.md) - 一个把小说自动转成短剧或漫剧的一站式 AI 短剧工厂，覆盖剧本、角色、分镜和视频生成。
 - [ViMax](items/vimax.md) - 一个集导演、编剧、制片人与视频生成于一体的 Agentic Video Generation 平台，适合长篇小说和复杂叙事视频创作。
 - [waoowaoo](items/waoowaoo.md) - 一个从小说文本自动生成角色、场景、分镜、配音与完整短剧视频的 AI 影视 Studio。
@@ -284,6 +285,7 @@
 - [Marketing Swarm Template](items/marketing-swarm-template.md) - 用多智能体批量生成多平台营销内容的开源 Swarm 模板。
 - [Parcelvoy](items/parcelvoy.md) - 开源多渠道营销自动化平台，支持消息触达、旅程编排和用户分群。
 - [RustySEO](items/rustyseo.md) - 面向 SEO 与 GEO 的网站抓取、分析和优化桌面工具。
+- [SEO Audit Skill](items/seo-audit-skill.md) - 一个面向 OpenClaw、Claude Code、Cursor 等 agent runtime 的 SEO 审计技能，可对单页站点输出结构化 HTML 审计报告。
 - [Social Media Agent](items/social-media-agent.md) - 用于抓取素材、生成并排期社媒内容的 AI Agent。
 
 ### Sales / CRM
@@ -454,6 +456,7 @@
 - [Paddle MCP Server](items/paddle-mcp-server.md) - 一个把 Paddle Billing API 暴露给 AI 助手的 MCP server，适合订阅、支付、退款、税务和报表管理场景。
 - [PaddleNLP](items/paddlenlp.md) - NLP 与信息抽取工具库，可用于外贸文本结构化。
 - [PaddleOCR](items/paddleocr.md) - 高质量 OCR 工具包，适合批量识别多语种外贸文件。
+- [Paperclip](items/paperclip.md) - 一个面向“零人类公司”的开源编排平台，用 org chart、goals、budgets、heartbeats 和治理机制来管理多代理业务运转。
 - [Paperless-AI](items/paperless-ai.md) - 一个面向 Paperless-ngx 的 AI 文档分析扩展，可自动做单证分类、标签整理和语义检索。
 - [Parlant](items/parlant.md) - 一个面向客户服务场景的开源 AI 代理平台，强调规则遵循、流程控制和可解释的对话行为。
 - [PayPal MCP Server](items/paypal-mcp-server.md) - 一个把 PayPal 订单、发票、退款、争议和订阅能力暴露给 AI 助手的 MCP server，适合跨境收款、售后和财务协作场景。
