@@ -535,6 +535,7 @@
 - [Atomic](items/atomic.md) - 一个把 Markdown 笔记自动转成语义知识图谱的个人知识库系统，支持向量搜索、Wiki 合成、画布和 AI 对话。
 - [ChatLab](items/chatlab.md) - 一个支持 Telegram、WhatsApp、LINE、QQ、Discord 和 Instagram 聊天记录分析的开源工具。
 - [Eclaire](items/eclaire.md) - 一个本地优先、可自托管的开源 AI 工作台，可统一处理任务、笔记、文档、图片和书签等个人与团队资料。
+- [GBrain](items/gbrain.md) - 一个面向 AI Agent 的开源长期记忆系统，用 Markdown repo 做知识源，用 Postgres + pgvector 做检索，适合把人物档案、会议记录、笔记和日历沉淀成可搜索的个人大脑。
 - [H3xAssist](items/h3xassist.md) - 一个能自动入会、录音、转写并生成会议摘要与待办的开源 AI 会议助手。
 - [Hermes Agent](items/hermes-agent.md) - 一个可运行在 CLI、Telegram、Discord、Slack 等多入口的自进化 AI 助手，支持记忆、技能、自动化和远程运行。
 - [Inbox Zero](items/inbox-zero.md) - 一个开源 AI 邮件助理，可整理收件箱、预写回复、管理日程并把附件自动归档。
@@ -550,6 +551,7 @@
 - [pot-desktop](items/pot-desktop.md) - 划词翻译加 OCR 的桌面工具，适合外贸日常对话与资料处理。
 - [Quivr](items/quivr.md) - 一个开源 AI 第二大脑与 RAG 助手，适合文档问答、个人知识管理和研究支持。
 - [Recap](items/recap.md) - 一个强调本地隐私处理的 macOS AI 会议总结工具，可录音、转写并生成摘要。
+- [Rowboat](items/rowboat.md) - 一个把邮件、会议笔记和长期上下文沉淀成本地知识图谱的开源 AI coworker，适合做会议准备、邮件草拟和文档产出。
 - [SubsTracker](items/subs-tracker.md) - 一个部署在 Cloudflare Workers 上的订阅管理工具，可在到期前自动提醒并统计多币种订阅支出。
 - [Transcript Seeker](items/transcript-seeker.md) - 开源浏览器转录工作台，可上传录音录像、生成转录、与纪要对话，并接入 Zoom、Meet、Teams 会议机器人。
 - [Zero](items/zero.md) - 一个支持 AI 代理、多账户聚合和自托管的开源邮件工作台，适合销售、外贸和高频邮件岗位。
