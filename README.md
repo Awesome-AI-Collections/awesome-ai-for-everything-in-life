@@ -253,6 +253,7 @@
 - [ALwrity](items/alwrity.md) - AI 数字营销平台，覆盖内容生成、SEO 与营销工作流。
 - [Attribuly DTC Skills](items/attribuly-dtc-skills.md) - 面向 Shopify 和 WooCommerce 品牌的 AI 营销分析与自动优化技能集。
 - [DataForSEO n8n Node](items/dataforseo-n8n-node.md) - 把 SEO 排名、关键词和外链数据接入 n8n 工作流的官方节点。
+- [dbskill](items/dbskill.md) - 一个把商业诊断、内容优化、标题公式和 AI 写作检测做成 Claude Code skills 的开源工具箱。
 - [geo-seo-claude](items/geo-seo-claude.md) - 一个面向 AI 搜索时代 GEO 与 SEO 审计的 Claude Code 工具，可并行分析可引用性、内容和技术基础。
 - [LLMOptimizer](items/llmoptimizer.md) - 生成 llms.txt 与 AI crawler 配置的优化工具，适合 GEO/SEO 场景。
 - [Make Social Media Automation](items/make-social-media-automation.md) - 结合 Make.com 与 OpenAI 的跨平台社媒内容生成和定时发布自动化。
@@ -467,6 +468,12 @@
 - [Taskosaur](items/taskosaur.md) - 一个带对话式 AI 任务执行能力的开源项目管理平台，适合团队用自然语言创建和推进项目任务。
 - [VerifyWise](items/verifywise.md) - 一个面向 AI 治理、合规和供应商风险管理的开源平台，适合法务、产品、风控和管理团队统一管理 AI 使用风险。
 
+### Education
+
+适合教学、学习辅助、课程组织和知识解释。
+
+- [Zhangxuefeng Skillset](items/zhangxuefeng-skillset.md) - 一个面向高考志愿填报与专业选择的开源 AI 知识库，可作为 OpenClaw skill、微信顾问入口或 RAG 教育问答底座。
+
 ### Career / Hiring
 
 适合招聘、求职、简历、面试和职业发展支持。
@@ -515,7 +522,6 @@
 
 ## 后续补充方向
 
-- `Education`: 适合教学、学习辅助、课程组织和知识解释。
 - `Health / Lifestyle`: 适合健康、生活方式、日常管理和个人生活支持。
 
 ## 收录标准
