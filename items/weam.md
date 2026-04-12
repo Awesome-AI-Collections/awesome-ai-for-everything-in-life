@@ -1,11 +1,8 @@
 ---
 title: "Weam"
-slug: "weam"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Operations"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Weam

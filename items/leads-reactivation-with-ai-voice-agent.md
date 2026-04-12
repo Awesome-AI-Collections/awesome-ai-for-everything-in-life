@@ -1,11 +1,8 @@
 ---
 title: "Leads Reactivation with AI Voice Agent"
-slug: "leads-reactivation-with-ai-voice-agent"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Sales / CRM"
-featured: false
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # Leads Reactivation with AI Voice Agent

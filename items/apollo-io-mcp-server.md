@@ -1,11 +1,8 @@
 ---
 title: "Apollo.io MCP Server"
-slug: "apollo-io-mcp-server"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Sales / CRM"
-featured: false
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # Apollo.io MCP Server

@@ -1,11 +1,8 @@
 ---
 title: "KrillinAI"
-slug: "krillinai"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Writing / Content"
-featured: false
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # KrillinAI

@@ -1,11 +1,8 @@
 ---
 title: "Contract Analyzer"
-slug: "contract-analyzer"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Research / Analysis"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Contract Analyzer

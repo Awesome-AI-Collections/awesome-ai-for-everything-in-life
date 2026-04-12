@@ -1,11 +1,8 @@
 ---
 title: "Make Social Media Automation"
-slug: "make-social-media-automation"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Marketing / Growth"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Make Social Media Automation

@@ -1,11 +1,8 @@
 ---
 title: "Laburen AI Sales Agent"
-slug: "laburen-ai-agent"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Sales / CRM"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Laburen AI Sales Agent

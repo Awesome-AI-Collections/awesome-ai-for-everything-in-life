@@ -1,11 +1,8 @@
 ---
 title: "Amazon Marketplace MCP Server by CData"
-slug: "amazon-marketplace-mcp-server-by-cdata"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Operations"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Amazon Marketplace MCP Server by CData

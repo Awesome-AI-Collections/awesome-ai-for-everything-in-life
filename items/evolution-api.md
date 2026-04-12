@@ -1,11 +1,8 @@
 ---
 title: "Evolution API"
-slug: "evolution-api"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Sales / CRM"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Evolution API

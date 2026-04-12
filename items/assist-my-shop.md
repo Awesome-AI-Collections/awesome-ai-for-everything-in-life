@@ -1,11 +1,8 @@
 ---
 title: "Assist My Shop"
-slug: "assist-my-shop"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Sales / CRM"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Assist My Shop

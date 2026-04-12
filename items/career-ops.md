@@ -1,11 +1,8 @@
 ---
 title: "Career-Ops"
-slug: "career-ops"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Career / Hiring"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Career-Ops

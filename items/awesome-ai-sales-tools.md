@@ -1,11 +1,8 @@
 ---
 title: "Awesome AI Sales Tools"
-slug: "awesome-ai-sales-tools"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Sales / CRM"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Awesome AI Sales Tools

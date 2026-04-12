@@ -1,11 +1,8 @@
 ---
 title: "n8n-nodes-dataforseo"
-slug: "n8n-nodes-dataforseo"
-info_type: "awesome-ai-for-everything-in-life"
 entity_type: "tool"
 category: "Marketing / Growth"
-featured: false
-last_reviewed_at: "2026-04-09T19:05:16+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # n8n-nodes-dataforseo
