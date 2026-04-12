@@ -181,6 +181,7 @@
 - [Opus-MT](items/opus-mt.md) - 现成多语种翻译模型集合。
 - [PEGASUS](items/pegasus.md) - 文本摘要模型，适合快速总结客户沟通内容。
 - [Phrase](items/phrase.md) - AI 翻译与本地化平台，适合多语网站与文档管理。
+- [SciWrite](items/sciwrite.md) - 一个面向科研论文写作审校的 agent skill，基于 Writing in the Sciences 方法论，对稿件做结构化写作质量审查。
 - [sentencepiece](items/sentencepiece.md) - 子词分词工具，适合训练翻译与分类模型。
 - [Smartcat](items/smartcat.md) - AI 驱动的全球内容平台，适合多语项目协作。
 - [Smartling](items/smartling.md) - 企业级翻译与本地化平台，适合大规模多语内容交付。
@@ -252,6 +253,7 @@
 - [AI Shopping Visibility Resources](items/ai-shopping-visibility-resources.md) - 聚焦 AI 购物可见性、商品发现和 AI 电商检索的资源库。
 - [ALwrity](items/alwrity.md) - AI 数字营销平台，覆盖内容生成、SEO 与营销工作流。
 - [Attribuly DTC Skills](items/attribuly-dtc-skills.md) - 面向 Shopify 和 WooCommerce 品牌的 AI 营销分析与自动优化技能集。
+- [Claude Ads](items/claude-ads.md) - 一个面向付费广告审计与优化的 Claude Code skill，覆盖多平台广告账户检查、评分、策略模板和并行分析流程。
 - [DataForSEO n8n Node](items/dataforseo-n8n-node.md) - 把 SEO 排名、关键词和外链数据接入 n8n 工作流的官方节点。
 - [dbskill](items/dbskill.md) - 一个把商业诊断、内容优化、标题公式和 AI 写作检测做成 Claude Code skills 的开源工具箱。
 - [geo-seo-claude](items/geo-seo-claude.md) - 一个面向 AI 搜索时代 GEO 与 SEO 审计的 Claude Code 工具，可并行分析可引用性、内容和技术基础。
@@ -429,6 +431,7 @@
 - [PayPal MCP Server](items/paypal-mcp-server.md) - 一个把 PayPal 订单、发票、退款、争议和订阅能力暴露给 AI 助手的 MCP server，适合跨境收款、售后和财务协作场景。
 - [PICK-pytorch](items/pick-pytorch.md) - 关键信息抽取模型，适合发票和订单字段识别。
 - [pix2struct](items/pix2struct.md) - 截图与文档解析模型，适合复杂界面和报表结构化。
+- [proxy-fleet](items/proxy-fleet.md) - 一个用单条命令管理多台 VPS 代理节点的工具，可部署 3x-ui + VLESS+Reality 并自动生成 Clash/Mihomo 订阅。
 - [py_entitymatching](items/py-entitymatching.md) - 实体匹配工具，适合对账和产品对齐。
 - [QuickBooks Online MCP Server](items/quickbooks-online-mcp-server.md) - 一个把 QuickBooks Online 数据和财务操作开放给 AI 助手的 MCP server，覆盖客户、发票、付款、账单和财务报表。
 - [RapidFuzz](items/rapidfuzz.md) - 模糊匹配库，适合客户和产品名称去重匹配。
