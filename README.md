@@ -357,6 +357,7 @@
 - [deepdoctection](items/deepdoctection.md) - 文档 AI 工具集，适合票据和单证识别解析。
 - [DeepKE](items/deepke.md) - 知识抽取工具箱，可做产品与客户关系信息抽取。
 - [Dify](items/dify.md) - 开源 LLM 应用与工作流平台，适合搭建知识库问答、Agent、RAG 流程和内部 AI 工具。
+- [DingTalk Workspace CLI](items/dingtalk-workspace-cli.md) - 钉钉官方的企业工作台 CLI，可让人类和 AI agents 以结构化方式访问企业数据、自动化工作流并保持审计边界。
 - [ditto](items/ditto.md) - 基于语言模型的实体匹配工具，适合产品和供应商匹配。
 - [DocETL](items/docetl.md) - 一个面向复杂文档处理场景的开源 AI ETL 平台，适合把合同、发票、PDF 和批量文本变成可复用的数据处理流水线。
 - [DocLayout-YOLO](items/doclayout-yolo.md) - 文档版面检测模型，适合单证区域定位。
@@ -419,6 +420,7 @@
 - [OCR-invoice](items/ocr-invoice.md) - 发票 OCR 抽取流程示例，可做外贸票据模板。
 - [OCR-Invoice-Detection](items/ocr-invoice-detection.md) - 发票 OCR 脚本，适合快速搭建试验流程。
 - [Office Agents](items/office-agents.md) - 一个面向 Word 和 Excel 等 Office 场景的自动化工具集，适合批量文档处理。
+- [OfficeCLI](items/officecli.md) - 一个让 AI agents 直接读取、编辑和生成 Word、Excel、PowerPoint 文件的 Office 自动化 CLI，无需安装 Microsoft Office。
 - [ontogpt](items/ontogpt.md) - LLM 结构化抽取工具，可做产品知识建库。
 - [Open Ticket AI](items/open-ticket-ai.md) - 开源 AI 工单自动化引擎，可分类、路由并处理支持工单。
 - [Open WebUI](items/open-webui.md) - 一个可离线自托管的 AI 工作台，支持多模型聊天、文件问答、RAG、语音和团队权限管理。
