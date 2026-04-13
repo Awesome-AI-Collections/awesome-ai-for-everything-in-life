@@ -201,11 +201,12 @@
 - [Huobao Drama](items/huobao-drama.md) - 一个从剧本生成、角色设计、分镜制作到视频合成的 AI 短剧自动化生产平台。
 - [Jellyfish](items/jellyfish-ai-short-drama-studio.md) - 一个覆盖剧本输入、智能分镜、角色场景一致性管理、视频生成和后期剪辑的一站式 AI 短剧工厂。
 - [Moyin Creator](items/moyin-creator.md) - 一个面向 AI 影视创作者的生产级工具，支持 Seedance 2.0，覆盖剧本、角色、场景、导演与成片生成。
-- [Narrator AI CLI Skill](items/narrator-ai-cli-skill.md) - 一个把电影解说和短剧旁白视频生产流程写进 `SKILL.md` 的开源 agent skill，可调用专用 CLI 完成写稿、配音、配乐和视频合成。
+- [Narrator AI CLI Skill](items/narrator-ai-cli-skill.md) - 一个把电影解说、短剧旁白和配音视频生产流程封装成 AI agent skill 的开源项目，可通过自然语言调用 narrator-ai-cli 完成脚本生成、剪辑编排、配音与视频合成。
 - [OpenTryOn](items/opentryon.md) - 面向电商和时尚零售的开源虚拟试穿工具箱，支持服饰展示、模特生成与商品可视化。
 - [Photopea](items/photopea.md) - 一个在线图像编辑器，支持 PSD、AI、Sketch、PDF 等格式，适合快速改图、抠图和多格式素材编辑。
 - [Pixelle-Video](items/pixelle-video.md) - 一个输入主题就能自动完成文案、配图、配音、配乐与合成的 AI 全自动短视频引擎。
 - [Remotion](items/remotion.md) - 一个用 React 代码生成视频的框架，适合把动画、数据、模板和品牌元素编排成可重复的视频生产流程。
+- [Seedance Product Video](items/seedance-product-video.md) - 一个为 Seedance 2.0 生成产品宣传视频提示词的 AI skill，适合把产品卖点快速转成 15 秒一镜到底的动画 prompt。
 - [Toonflow](items/toonflow.md) - 一个把小说自动转成短剧或漫剧的一站式 AI 短剧工厂，覆盖剧本、角色、分镜和视频生成。
 - [ViMax](items/vimax.md) - 一个集导演、编剧、制片人与视频生成于一体的 Agentic Video Generation 平台，适合长篇小说和复杂叙事视频创作。
 - [waoowaoo](items/waoowaoo.md) - 一个从小说文本自动生成角色、场景、分镜、配音与完整短剧视频的 AI 影视 Studio。
