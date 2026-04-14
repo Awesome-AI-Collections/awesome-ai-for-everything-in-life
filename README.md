@@ -160,6 +160,7 @@
 - [Copy.ai](items/copy-ai.md) - 营销与销售文案 AI，适合广告、邮件和社媒内容生成。
 - [Crowdin](items/crowdin.md) - 本地化协作平台，适合产品和网站的多语翻译管理。
 - [CTranslate2](items/ctranslate2.md) - 翻译模型高性能推理引擎。
+- [DeepL MCP Server](items/deepl-mcp-server.md) - DeepL 官方维护的 MCP server，可把翻译、文档翻译、改写和 glossary 能力接给 Claude Code、Claude Desktop 等 AI 助手。
 - [DeepL Translator](items/deepl-translator.md) - 高质量机翻工具，适合外贸邮件和资料的快速双语转换。
 - [Erduo Skills](items/erduo-skills.md) - 一个面向 AI Agent 的内容工作流技能库，覆盖日报生成、RSS 摘要、转录精修、翻译和网页转 Markdown 等任务。
 - [ESPnet](items/espnet.md) - 端到端语音与翻译工具，适合语音外贸场景。
@@ -444,6 +445,7 @@
 - [rpa-challenge-invoice-extraction](items/rpa-challenge-invoice-extraction.md) - RPA 加 OCR 的发票抽取流程参考。
 - [ShipStation MCP Server](items/mcp-shipstation-api.md) - 一个连接 ShipStation API v2 的 MCP server，可让 AI 处理 shipments、labels、rates、carriers、inventory 和 warehouses 等履约能力。
 - [shopify-mcp](items/shopify-mcp.md) - 一个面向 Shopify GraphQL Admin API 的 MCP server，可让 AI 直接读写商品、订单、客户、库存和 metafields，适合电商运营与跨境团队。
+- [Shopify MCP Server](items/shopify-mcp-server.md) - 一个面向 Shopify Admin API 的 MCP server，可让 AI 助手通过自然语言管理商品、订单、客户、库存、集合和折扣。
 - [SiteChat](items/sitechat.md) - 基于网站内容训练的自托管 AI 客服平台，适合官网和帮助中心支持。
 - [snips-nlu](items/snips-nlu.md) - 意图与实体识别工具，可用于外贸客服机器人。
 - [Superflows](items/superflows.md) - 一个把 AI 助手嵌入业务软件的开源平台，可调用 API 完成问答、任务执行和数据分析。
