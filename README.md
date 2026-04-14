@@ -160,7 +160,7 @@
 - [Copy.ai](items/copy-ai.md) - 营销与销售文案 AI，适合广告、邮件和社媒内容生成。
 - [Crowdin](items/crowdin.md) - 本地化协作平台，适合产品和网站的多语翻译管理。
 - [CTranslate2](items/ctranslate2.md) - 翻译模型高性能推理引擎。
-- [DeepL MCP Server](items/deepl-mcp-server.md) - DeepL 官方维护的 MCP server，可把翻译、文档翻译、改写和 glossary 能力接给 Claude Code、Claude Desktop 等 AI 助手。
+- [DeepL MCP Server](items/deepl-mcp-server.md) - DeepL 官方维护的 MCP server，可把文本翻译、文档翻译、改写和 glossary 能力接给 Claude Code、Claude Desktop 等 AI 助手。
 - [DeepL Translator](items/deepl-translator.md) - 高质量机翻工具，适合外贸邮件和资料的快速双语转换。
 - [Erduo Skills](items/erduo-skills.md) - 一个面向 AI Agent 的内容工作流技能库，覆盖日报生成、RSS 摘要、转录精修、翻译和网页转 Markdown 等任务。
 - [ESPnet](items/espnet.md) - 端到端语音与翻译工具，适合语音外贸场景。
@@ -358,7 +358,6 @@
 - [deepdoctection](items/deepdoctection.md) - 文档 AI 工具集，适合票据和单证识别解析。
 - [DeepKE](items/deepke.md) - 知识抽取工具箱，可做产品与客户关系信息抽取。
 - [Dify](items/dify.md) - 开源 LLM 应用与工作流平台，适合搭建知识库问答、Agent、RAG 流程和内部 AI 工具。
-- [DingTalk Workspace CLI](items/dingtalk-workspace-cli.md) - 钉钉官方的企业工作台 CLI，可让人类和 AI agents 以结构化方式访问企业数据、自动化工作流并保持审计边界。
 - [ditto](items/ditto.md) - 基于语言模型的实体匹配工具，适合产品和供应商匹配。
 - [DocETL](items/docetl.md) - 一个面向复杂文档处理场景的开源 AI ETL 平台，适合把合同、发票、PDF 和批量文本变成可复用的数据处理流水线。
 - [DocLayout-YOLO](items/doclayout-yolo.md) - 文档版面检测模型，适合单证区域定位。
@@ -421,7 +420,6 @@
 - [OCR-invoice](items/ocr-invoice.md) - 发票 OCR 抽取流程示例，可做外贸票据模板。
 - [OCR-Invoice-Detection](items/ocr-invoice-detection.md) - 发票 OCR 脚本，适合快速搭建试验流程。
 - [Office Agents](items/office-agents.md) - 一个面向 Word 和 Excel 等 Office 场景的自动化工具集，适合批量文档处理。
-- [OfficeCLI](items/officecli.md) - 一个让 AI agents 直接读取、编辑和生成 Word、Excel、PowerPoint 文件的 Office 自动化 CLI，无需安装 Microsoft Office。
 - [ontogpt](items/ontogpt.md) - LLM 结构化抽取工具，可做产品知识建库。
 - [Open Ticket AI](items/open-ticket-ai.md) - 开源 AI 工单自动化引擎，可分类、路由并处理支持工单。
 - [Open WebUI](items/open-webui.md) - 一个可离线自托管的 AI 工作台，支持多模型聊天、文件问答、RAG、语音和团队权限管理。
@@ -444,8 +442,8 @@
 - [Retail Shopping Assistant](items/retail-shopping-assistant.md) - NVIDIA 的零售购物顾问蓝图，支持多 agent 商品搜索、图像检索和购物车交互。
 - [rpa-challenge-invoice-extraction](items/rpa-challenge-invoice-extraction.md) - RPA 加 OCR 的发票抽取流程参考。
 - [ShipStation MCP Server](items/mcp-shipstation-api.md) - 一个连接 ShipStation API v2 的 MCP server，可让 AI 处理 shipments、labels、rates、carriers、inventory 和 warehouses 等履约能力。
+- [Shopify MCP Server](items/shopify-mcp-server.md) - 一个面向 Shopify Admin API 的 MCP server，可让 AI 通过自然语言管理商品、订单、客户、库存、集合和折扣，适合独立站与跨境电商运营流程。
 - [shopify-mcp](items/shopify-mcp.md) - 一个面向 Shopify GraphQL Admin API 的 MCP server，可让 AI 直接读写商品、订单、客户、库存和 metafields，适合电商运营与跨境团队。
-- [Shopify MCP Server](items/shopify-mcp-server.md) - 一个面向 Shopify Admin API 的 MCP server，可让 AI 助手通过自然语言管理商品、订单、客户、库存、集合和折扣。
 - [SiteChat](items/sitechat.md) - 基于网站内容训练的自托管 AI 客服平台，适合官网和帮助中心支持。
 - [snips-nlu](items/snips-nlu.md) - 意图与实体识别工具，可用于外贸客服机器人。
 - [Superflows](items/superflows.md) - 一个把 AI 助手嵌入业务软件的开源平台，可调用 API 完成问答、任务执行和数据分析。
@@ -529,9 +527,11 @@
 - [Transcript Seeker](items/transcript-seeker.md) - 开源浏览器转录工作台，可上传录音录像、生成转录、与纪要对话，并接入 Zoom、Meet、Teams 会议机器人。
 - [Zero](items/zero.md) - 一个支持 AI 代理、多账户聚合和自托管的开源邮件工作台，适合销售、外贸和高频邮件岗位。
 
-## 后续补充方向
+### Health / Lifestyle
 
-- `Health / Lifestyle`: 适合健康、生活方式、日常管理和个人生活支持。
+适合健康、生活方式、日常管理和个人生活支持。
+
+- [OpenClaw Nanoleaf](items/openclaw-nanoleaf.md) - 一个把 Nanoleaf 灯带控制做成命令行工作流的案例工具，可随 Apple Music 或系统音频实时变色，适合做桌面环境与氛围自动化。
 
 ## 收录标准
 
