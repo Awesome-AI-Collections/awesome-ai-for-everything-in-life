@@ -260,6 +260,7 @@
 - [DataForSEO n8n Node](items/dataforseo-n8n-node.md) - 把 SEO 排名、关键词和外链数据接入 n8n 工作流的官方节点。
 - [dbskill](items/dbskill.md) - 一个把商业诊断、内容优化、标题公式和 AI 写作检测做成 Claude Code skills 的开源工具箱。
 - [geo-seo-claude](items/geo-seo-claude.md) - 一个面向 AI 搜索时代 GEO 与 SEO 审计的 Claude Code 工具，可并行分析可引用性、内容和技术基础。
+- [GEOFlow](items/geoflow.md) - 一个把 AI 生成、素材管理、任务调度、草稿审核和前台发布串成完整链路的 GEO / SEO 内容生产系统，适合搭建自动化内容站点或内部内容运营后台。
 - [LLMOptimizer](items/llmoptimizer.md) - 生成 llms.txt 与 AI crawler 配置的优化工具，适合 GEO/SEO 场景。
 - [Make Social Media Automation](items/make-social-media-automation.md) - 结合 Make.com 与 OpenAI 的跨平台社媒内容生成和定时发布自动化。
 - [Marketing Swarm Template](items/marketing-swarm-template.md) - 用多智能体批量生成多平台营销内容的开源 Swarm 模板。
