@@ -232,6 +232,7 @@
 - [Ecommerce Category Scraper](items/ecommerce-category-scraper.md) - 用 AI 提取电商站点分类层级和商品导航结构的抓取工具。
 - [GPT Researcher](items/gpt-researcher.md) - 一个可自动执行深度调研、汇总来源并生成研究报告的开源 AI 研究助手。
 - [harmonized-system](items/harmonized-system.md) - HS 编码数据集，适合关务归类与产品建库。
+- [PDF Reader MCP](items/pdf-reader-mcp.md) - 一个面向 AI agents 的 PDF 处理 MCP server，支持并行提取全文、图片、元数据和页码，适合合同、报告和产品资料分析。
 - [Hyper-Extract](items/hyper-extract.md) - 一个用 LLM 把非结构化文本转成结构化知识的抽取框架，支持图谱、超图和时空抽取，适合研究、文档理解与知识整理。
 - [Kotaemon](items/kotaemon.md) - 一个面向文档问答和企业知识库场景的开源 RAG 界面与工作台，适合研究、客服和内部资料检索。
 - [LawGlance](items/lawglance.md) - 一个面向法律与合规问答场景的开源 RAG 助手，适合法务、合规和政策查询工作流。
