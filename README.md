@@ -232,7 +232,6 @@
 - [Ecommerce Category Scraper](items/ecommerce-category-scraper.md) - 用 AI 提取电商站点分类层级和商品导航结构的抓取工具。
 - [GPT Researcher](items/gpt-researcher.md) - 一个可自动执行深度调研、汇总来源并生成研究报告的开源 AI 研究助手。
 - [harmonized-system](items/harmonized-system.md) - HS 编码数据集，适合关务归类与产品建库。
-- [PDF Reader MCP](items/pdf-reader-mcp.md) - 一个面向 AI agents 的 PDF 处理 MCP server，支持并行提取全文、图片、元数据和页码，适合合同、报告和产品资料分析。
 - [Hyper-Extract](items/hyper-extract.md) - 一个用 LLM 把非结构化文本转成结构化知识的抽取框架，支持图谱、超图和时空抽取，适合研究、文档理解与知识整理。
 - [Kotaemon](items/kotaemon.md) - 一个面向文档问答和企业知识库场景的开源 RAG 界面与工作台，适合研究、客服和内部资料检索。
 - [LawGlance](items/lawglance.md) - 一个面向法律与合规问答场景的开源 RAG 助手，适合法务、合规和政策查询工作流。
@@ -240,6 +239,7 @@
 - [MindsDB](items/mindsdb.md) - 一个把数据库、应用和文档连接给 AI 的开源查询引擎，适合做业务数据问答、分析和智能体。
 - [Onyx](items/onyx.md) - 一个面向团队的开源 AI 平台，支持内部知识搜索、RAG、深度研究和企业级聊天助手。
 - [Open Researcher](items/open-researcher.md) - 一个结合 Firecrawl 抓取与 AI 推理的开源研究助手，可实时展示思考过程、引用来源并做网页研究分析。
+- [PDF Reader MCP](items/pdf-reader-mcp.md) - 一个面向 AI agents 的 PDF 处理 MCP server，支持并行提取全文、图片、元数据和页码，适合把合同、报告和产品资料接进分析工作流。
 - [QAnything](items/qanything.md) - 一个支持离线部署的本地知识库问答系统，适合企业内部文档问答和跨语言知识检索。
 - [RAGFlow](items/ragflow.md) - 一个开源 RAG 与 Agent 引擎，适合把公司文档、知识库和业务资料整理成可检索、可追溯的问答系统。
 - [ReadingBank](items/readingbank.md) - 文档阅读顺序数据集，可用于复杂单证理解。
@@ -331,7 +331,7 @@
 
 - [53AI Hub](items/53aihub.md) - 开源 AI 门户平台，可统一发布和运营 AI agents、prompt 与工具。
 - [Acrobat AI Assistant](items/acrobat-ai-assistant.md) - Adobe Acrobat 的文档 AI 助手，可用于合同和 PDF 的摘要与问答。
-- [Activepieces](items/activepieces.md) - 开源自动化平台和 Zapier 替代品，支持 AI 工作流、审批、表单、人机协同和大量应用连接器。
+- [Activepieces](items/activepieces.md) - 一个 AI-first 的开源工作流自动化平台和 Zapier 替代品，支持 400+ pieces、MCP server、审批、表单和人机协同流程。
 - [AI Customer Service Agent](items/ai-customer-service-agent.md) - 面向客服场景的 AI 支持代理，支持多步骤工作流与实时监控。
 - [AI Customer Support](items/ai-customer-support.md) - 一个面向客服场景的开源 AI 聊天支持系统，适合做 FAQ、自助问答和知识库客服原型。
 - [AI Response Generator Plugin for osTicket](items/ai-response-generator.md) - 为 osTicket 客服席位生成 AI 建议回复的插件，可叠加 RAG 上下文。
@@ -459,7 +459,7 @@
 - [TiLT-Implementation](items/tilt-implementation.md) - 文档理解 Transformer 实现，适合结构化抽取任务。
 - [Tournesol AI](items/tournesol-ai.md) - AI HS code 分类工具，适合合规分类和归类解释辅助。
 - [UniLM](items/unilm.md) - 文档理解与布局模型集合，适合外贸单证分析。
-- [UPS MCP](items/ups-mcp.md) - 一个连接 UPS APIs 的 MCP server，支持包裹追踪和地址校验，适合外贸发货、售后跟进和物流状态查询。
+- [UPS MCP](items/ups-mcp.md) - 一个连接 UPS APIs 的 MCP server，能让 AI 直接做包裹追踪和地址校验，适合外贸发货、售后跟进和履约查询。
 - [Vexa](items/vexa.md) - 一个自托管的开源会议机器人与转写 API，适合企业做会议记录、语音代理和会议数据管道。
 - [Weam](items/weam.md) - 一个面向团队协作的开源 AI 工作平台，把多模型聊天、Prompt、Agent、RAG 和团队共享工作区整合到一起。
 - [Well](items/well.md) - 围绕国际发票和财务数据流转的 AI 基础设施项目，适合单证与 FinOps 流程自动化。
