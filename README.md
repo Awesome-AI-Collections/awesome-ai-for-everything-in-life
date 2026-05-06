@@ -203,6 +203,7 @@
 - [Jellyfish](items/jellyfish-ai-short-drama-studio.md) - 一个覆盖剧本输入、智能分镜、角色场景一致性管理、视频生成和后期剪辑的一站式 AI 短剧工厂。
 - [Moyin Creator](items/moyin-creator.md) - 一个面向 AI 影视创作者的生产级工具，支持 Seedance 2.0，覆盖剧本、角色、场景、导演与成片生成。
 - [Narrator AI CLI Skill](items/narrator-ai-cli-skill.md) - 一个把电影解说、短剧旁白和配音视频生产流程封装成 AI agent skill 的开源项目，可通过自然语言调用 narrator-ai-cli 完成脚本生成、剪辑编排、配音与视频合成。
+- [Open Design](items/open-design.md) - 一个本地优先的开源 AI 设计与原型平台，把技能、设计系统、沙箱预览和多种 coding-agent CLI 串成 artifact-first 设计工作流。
 - [OpenTryOn](items/opentryon.md) - 面向电商和时尚零售的开源虚拟试穿工具箱，支持服饰展示、模特生成与商品可视化。
 - [Photopea](items/photopea.md) - 一个在线图像编辑器，支持 PSD、AI、Sketch、PDF 等格式，适合快速改图、抠图和多格式素材编辑。
 - [Pixelle-Video](items/pixelle-video.md) - 一个输入主题就能自动完成文案、配图、配音、配乐与合成的 AI 全自动短视频引擎。
